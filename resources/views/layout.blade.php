@@ -51,7 +51,7 @@
                     </div>
                     <hr>
                     <div class="my-3">
-                        NAME: &lt;<i>replace this with your full name.</i>&gt;
+                        NAME: &lt;<i>Ivy H. Quino</i>&gt;
                     </div>
                 </div>
             </div>

@@ -14,3 +14,4 @@ Route::group(['middleware'=>'auth'], function() {
 
     Route::get('/logout', [AuthController::class, 'logout']);
 });
+Route::post('/register', [AuthController::class, 'register']);

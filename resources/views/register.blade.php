@@ -6,7 +6,7 @@
     <img src="{{asset('images/signage.jpg')}}" alt="Signage" class="w-[200px]">
     <div class="w-[450px] p-8 bg-white rounded-2xl shadow ">
         <h3 class="text-2xl mb-4 text-orange-900 font-bold">User Registration</h3>
-        <form action="{{url('/login')}}" method="post">
+        <form action="{{url('/register')}}" method="post">
             @csrf()
             <div class="my-3">
                 <label for="last_name">Last Name</label>
